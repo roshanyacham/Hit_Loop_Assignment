@@ -34,7 +34,7 @@ Ensure you have the following installed on your system:
 1. **Clone the Repository**
 ```bash
 git clone https://github.com/your-repository-link/todo-app.git
-cd todo-app
+cd Hit_Loop_Assignment
 ```
 
 2. **Install Dependencies**

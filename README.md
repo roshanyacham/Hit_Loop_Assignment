@@ -48,12 +48,6 @@ npm start
 ```
 This will start the development server and open the app in your default browser. If it doesn't open automatically, navigate to `http://localhost:3000/` in your browser.
 
-### Build for Production
-To create a production-ready build, run:
-```bash
-npm run build
-```
-The optimized build will be created in the `build` directory.
 
 ## Additional Features Implemented
 
